@@ -1,15 +1,7 @@
 {
   "upstream": "backport-org/integration-test",
   "targetBranchChoices": [
-    {
-      "name": "master",
-      "checked": true
-    },
-    {
-      "name": "7.x",
-      "checked": true
-    },
-    "7.8"
+    "7.x"
   ],
   "targetPRLabels": [
     "backport"
